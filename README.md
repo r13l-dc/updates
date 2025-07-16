@@ -16,3 +16,7 @@ The second R13L (account ID: 1366984096139444348). It was written in an actual p
 
 The current version of R13L (same account as R13L.py), being the re-branded version of R13L.py with many more united and fancy new features, written in Python (`discord.py`). It is the currently used R13L and is the best by far, with many features and abilities. They are as follows: Moderator, Manager, Economy, Fun, Tools, Images, Roleplay, Information, Welcoming *(Join messages and Leave messages)*, Starboards and extras. It was official when R13L.py re-branded as R13L on 2025 June 5th.
 > This was the first R13L to come with a GitHub account, Terms of Service and a Privacy Policy.
+
+## Info
+
+There is a `INFO.md` file inside each directory explaining in more detail about them and their history
