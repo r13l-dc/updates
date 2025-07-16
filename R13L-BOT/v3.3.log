@@ -1,0 +1,15 @@
+@everyone 
+## R13L-BOT Update 3.3: (4/27/25 7:15:00 UTC+3)
+### This update is mostly all about bug fixing:
+1. [🥷] - Fixed the ?rob command cooldown issue.
+2. [🤝] - Fixed the whitespace issue in ?give. You don't have to remove the extra space anymore.
+3. [🏦] - Fixed the issue with ?deposit which used an " instead of \*.
+4. [🥷] - Robbing is now fixed, the chance of robbing is now **33%** instead of **40%**.
+5. [🤝] - ?give can also be used as ?give-money, both are valid commands now.
+6. [🎲] - Fixed a bug in the ?minigame which made it give an error. This bug was because of some faulty "rock, paper, scissors" from RB 3.1 that was forgotten to be removed. 
+7. [🌐] **?short-url** - You can now shorten a URL using R13L-BOT's new command! Simply do "?short-url (website link)" and it will be shortened!
+8. [📐] - A misspelling in ?setup has been fixed.
+### That is all!
+-# - Next update will come before <t:1747034100:f>! This means R13L-BOT 3.5 will be before that date.
+-# - Join the official Support Hub to get more notifications officially <https://discord.gg/3SXhza2tEH>.
+-# - You can suggest commands or report bugs in the official R13L-BOT Support Hub Server.

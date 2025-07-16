@@ -1,0 +1,15 @@
+-# || @everyone @here <@&1322185982870556734> ||
+## R13L-BOT Update 2.8: The Fun Update! (4/24/25)
+### New Stuff:
+1. [🪙] - **?coin-flip command!** You can flip a coin to get either heads or tails!
+2. [🎱] - **?8-ball**! You can finally ask an 8-ball questions about anything and you'd get an answer!
+3. [🎂] - **?setup Fun**! Fun commands and Fun Action action commands are now separated! Use ?help for more info.
+4. [🗯️] - Improved the help menu.
+### Changes:
+5. [5️⃣] - Every emoji reactions embed will now be limited to just 5 reactions. 
+6. [🔪] - Fixed bugs regarding ?shoot, ?stab and other action commands when it comes to saying the mentioned user isn't a bot.
+7. [☠️] - Fixed a bug to make it reset the slaves name after death automatically.
+8. [📃] - Fixed ANOTHER bug regarding ?shoot and ?stab saying that the user is "already muted". This bug is probably the most annoying bug in RB history...
+-# - This the 10th Update in R13L-BOT!
+-# - Join the official Support Hub to get more notifications officially <https://discord.gg/3SXhza2tEH>
+-# - You can suggest commands or report bugs in the official R13L-BOT Support Hub Server.

@@ -1,0 +1,11 @@
+-# || @everyone @here <@&1322185982870556734> ||
+# R13L-BOT UPDATE 2.6 (4/23/25)
+1. [🧹📃] -  The **?remove-ld** command! This command will remove the selected person from their number on the leaderboard by resetting their total balance to 0 coins 🪙! Use ?help for more info.
+2. [🤔🌡️] - The **?setup Checks** command! If you ever want to check something, you will first need to activate it in ?setup menu. The check cmds are separated from Fun Action.
+3. [🪓☠️] -** Slaves can die now!** After using "?slave work" for a total of 5-4 times (is random), then your slave will die!
+4. [🪓🔥] - To make it more fair, **slaves also are now more buffed** than before, this is a compensation due to the slave death.
+5. [⚠️🌡️] -** Fixed the ?setup commands bugs** regarding which setup you run and what it says in response to it.
+6. [🤔🫂] - **You can use checks on other people now!** A very requested feature that too way too long to be implemented honestly 
+### That's all!
+-# - Join the official support server to get more notifications officially <https://discord.gg/3SXhza2tEH>
+-# - Please report bugs to the official R13L-BOT server.

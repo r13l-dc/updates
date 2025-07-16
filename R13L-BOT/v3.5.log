@@ -1,0 +1,12 @@
+|| <@&1322185982870556734> @everyone @here ||
+## R13L-BOT Update 3.5: (4/27/25 23:50 UTC+3)
+1. [💼] - You can choose your own job now! Simply do ?work and choose the job that you want from there. For now, this is unchangeable. You will be able to change it in RB 3.7!
+2. [⚙️] - Fixed a bug in ?minigame by making minigame only accessible by economy commands they are setup.
+3. [🏡] - You can use your own commands now! No one can steal your ?minigame or ?work chance at all anymore.
+4. [🇬🇧] - Fixed a misspelling in ?gay-check and ?ship.
+5. [🐱] - You can get random cat facts using ?cat-facts now! Just type in the command and you'll get a random valid fact.
+6. [🐶] - ?dogs now has a better and more expanded random images API.
+7. [❗] - R13L-BOT 3.7 will come in less than a week!
+### See you next update!
+-# - Join the official Support Hub to get more notifications officially <https://discord.gg/3SXhza2tEH>.
+-# - You can suggest commands or report bugs in the official R13L-BOT Support Hub Server.

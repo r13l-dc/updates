@@ -1,0 +1,16 @@
+-# || @everyone @here <@&1322185982870556734> ||
+## R13L-BOT Update 3.1: (4/26/25 21:11 UTC+3)
+## New Stuff:
+1. [💰] **?daily** - There are now Daily Incomes in R13L-BOT that have a cooldown of 24 hours! This is an income-economy command.
+2. [🧑‍💻] **?qr** - You can now generate QR codes for messages that you send using R13L-BOT! Remember this has a limit of x characters!
+3. [🪨] **?rps** - You can FINALLY play rock, paper, scissors using R13L-BOT! This also isn't an economy command at all!
+4. [<:rb_coin:1365741031856935083>] - **New R13L-BOT coin emoji!** Created by Carbonistical!
+5. [⛔] **?remove-money** - The server admin can now remove a specific amount of money from people!
+6. [👤] - **R13L-BOT has a new profile picture!** This time, it is not an Object show or another Fandom!
+### Changes:
+7. [🕖] - "?minigame" finally requires a cooldown! This helps prevent bugs.
+8. [<:robber:1365741942440333353>] - Robbing people is no longer limited to 5000 coins <:rb_coin:1365741031856935083>. You can now rob anyone as long as they have over 1 coin <:rb_coin:1365741031856935083> in their wallet!
+9. [📄] - As always, the help menu has been changed. **You can find all the new changes in the ?help menu in DMs!**
+-# - Next update will come before <t:1746997860:f>! This means R13L-BOT 3.3 will be before that date.
+-# - Join the official Support Hub to get more notifications officially <https://discord.gg/3SXhza2tEH>
+-# - You can suggest commands or report bugs in the official R13L-BOT Support Hub Server.
