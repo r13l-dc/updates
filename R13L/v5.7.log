@@ -1,0 +1,19 @@
+# \-- R13L v5.7
+## __Welcome Category__
+> - Added more information when using `/join-setup`
+> - Added more information when using `/leave-setup`
+> - Fixed the **Welcome Category** by far the most and added better insights
+## __Tools Category__
+> - New `!download` command to download videos from sites such as YouTube, Tiktok and/or Insta
+> - Fixed more naming errors related to `!afk`
+> - Added embeds to `!afk` and replaced classical messages
+## __Changes__
+> - Got rid of `!screenshot` command because of it... not working
+> - Moved pages to the middle of the buttons to make space in `!help`
+## __Spoilers!__
+> - ||There **will** be a new category *soon* related to one of the features that got removed from the «C~ Federation version of R13L». But this time, **it will be global for everyone! I think you can guess what it is!!**||
+....................................................................
+-# - Slash commands might take up to 1 hour to register globally across all server, however due to this messages delay, it *may* take up to **5 minutes**.
+-# - A change in the privacy policy might happen soon. Remember to follow up and check at: <https://r13l-dc.github.io/r13l-docs/index.html>
+-# - R13L Official Server: <https://discord.gg/ePfTy2kKWb>
+@here <@&1367626260020465674>

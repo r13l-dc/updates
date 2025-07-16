@@ -1,0 +1,18 @@
+# ==== R13L v6.7 Update Log ====
+## **What's New?**
+* __🎫 New Ticketing system__: Tickets inside the R13L Official Server to encourage user safety and to help make R13L a more safer enviorment! See them at <#1393540617002422363>
+-# * Stay tuned for **R13L v6.8**... ;)
+* __💙 New tools command__: New `dowload` command under the tools category with an image attached!
+* __⛔ Economy Improvement__: You can now use user IDs on zeroing manager economy commands. (`reset-money 1234567890`)
+* __🎣 New messages__: The `fish` command now shows more randomized messages!
+---
+## **Changes**
+* __🔧 UI__: Changed the setup error message to normal text instead of bold text.
+* __🐟 Economy Improvement__: Buffed the `fish` command by far the most
+----------------------------------------------------------------------------------------------------------------------
+-# - 🔗 **R13L Official Server:** <https://discord.gg/GwGvbQGuzj>
+-# - 🟢 **R13L's Current Status:** Online and active — Report any bugs or issues in the official server.
+-# - ❗ It will take a few minutes for the randomized `fish` messages to update due to demand.
+-# - ||@everyone @here||
+
+# For the people actually reading this from the GitHub repository, this file is the only one to be uploaded directly from the actual writing of it. It wasnt copy-pasted from some Discord announcement.

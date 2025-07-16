@@ -1,0 +1,19 @@
+# ==== R13L v6.6 Update Log ====
+## **What's New?**
+* :sparkles: __Improved Admin Controls:__ Commands like `restart`, `shutdown`, etc. are now more organized and easier to manage.
+* :rainbow_flag: __New Command: `gay-check`__ Check a user's sexuality for fun.
+* :moneybag: __New Command: `toggle-robbing`__ Toggles the `rob` command on or off in your server.
+-# * this will **~1 hour** to be registered in the database and globally.
+* :warning: __Default Setting Change:__  The `rob` command is now **OFF** by default. Server managers have to enable it manually.
+---
+## **Changes**
+* :books: __Updated Help Menu:__ Reorganized and includes all new features and commands.
+* :test_tube: __Feature Visibility in Help:__ Now shows which features are currently **enabled** or **disabled** in your server.
+---
+## **Bug Fixes**
+* :shopping_cart: Fixed an issue where `shop` would crash or not register correctly.
+* :mute: Removed the deprecated `atlas-speak` slash command from the **C\~ Federation** version of R13L.
+----------------------------------------------------------------------------------------------------------------------
+-# - :link: **R13L Official Server:** <https://discord.gg/GwGvbQGuzj>
+-# - :green_circle: **R13L's Current Status:** Online and active. Report any bugs or issues in the official server.
+-# - ||@everyone @here||

@@ -1,0 +1,23 @@
+||@everyone @here||
+# ===== R13L v6.2 =====
+## **__... Moderator & Manager Category__**:
+> - NEW `toggle-delete-msgs-on-ban` feature to toggle if you want R13L to delete the messages of a user upon ban! 
+> - Manager category now shows R13L typing before executing
+> - `role` command is now embed and modernized
+> - `role` system has switched to a toggling system
+> - Warning system now uses **Epoch Timestamps**
+> -# - These database changes will take a few hours to register globally due to R13L being in usage time. The two changes at the top will be registered when R13L users are inactive to prevent database crashes.
+## **__Economy Category__**:
+> - Fixed various transaction related commands due to a bug related to memory
+## **__Tools Category__**:
+> - NEW `epoch-time` command to view the current Epoch Timestamp worldwide 
+> - AFK system now uses **Epoch Timestamps** 
+## **__Roleplay Category__**:
+> - NEW `headpet` command to pet peoples avatars!
+> - All roleplay commands will display R13L typing before executing 
+---------------------------------------------------------------------------------------------------
+> -# - R13L Inactive times are `~6:30 GMT+1` as of now.
+> -# - R13L v6.3 will arrive quicker than expected.
+> -# - For now, R13L updates will arrive **daily** at `~22:00 GMT+1` but take effect at around `~6:30 GMT+1` the next day.
+> -# - **R13L will soon feature its own custom hosting console app, written in Golang! For now, R13L uses PowerShell scripts to be hosted.**
+> -# - Official R13L Server: <https://discord.gg/GwGvbQGuzj>

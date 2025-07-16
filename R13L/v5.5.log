@@ -1,0 +1,16 @@
+# ------ R13L v5.5 ------
+## __Fun Category__
+> - `!fancy [text]`: Makes `text` look like 𝓽𝓱𝓲𝓼 𝓼𝓽𝔂𝓵𝓮
+> - `!aesthetic [text]`: Makes `text` look like ｔｈｉｓ ｓｔｙｌｅ
+> - `!uwuify [text]`: Makes `text` look like this stywe owo!
+> - `!mockify [text]`: Makes `text` look like ThiS stYLE
+## __Manager Category__
+> - `!add-role [name]`: Creates a new role with the name of `name| with no permissions
+> - `!role [@member] [role]`: Gives `role` to the mentioned `member`
+## __Roleplay Category__
+> - `!drown (target)`: Drowns the `target` or `"someone"` if no `target` is provided
+.....................................................................
+> - Removed support for `!role-color` in the C~ Federation's version of R13L
+-# - Next update __will__ be a new slash commands category!
+-# - R13L Official Server: <https://discord.gg/ePfTy2kKWb>
+@here @everyone

@@ -1,0 +1,21 @@
+||@everyone @here||
+# ==== R13L v6.5 [REVAMP] ====
+## __NEW__:
+> - New `sync-channel` command to sync channels with their categories! 
+> -# - Wait time for release after update announcement: **10 minutes**
+## __CHANGES__:
+> - Renamed Categories to Features. 
+> - Updated the R13L logo. 
+> - Updated the R13L banner. 
+> - Updated the R13L description. 
+> - `help` command will now show the features of R13L which are turned on or off.
+> -# - Wait time for release after update announcement: **10 minutes**
+> - Join roles will no longer be applied to bots or applications. 
+## __BUG FIXES__:
+> - Revamped the Moderator features of R13L. 
+> - Fixed `googlesearch` command. 
+> - Fixed the issue with the warn expiry system. 
+> - Fixed `setup` command and the message when a category is not turned on.
+--------------------------------------------------------------------------------------
+> -# - R13L Official Server: <https://discord.gg/GwGvbQGuzj>
+> -# - R13L Current Status: 🟢

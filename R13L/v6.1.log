@@ -1,0 +1,25 @@
+||@everyone @here||
+# ===== R13L v6.1 =====
+## **__Tools & Fun Category__**:
+> * NEW `!reverse` command for GIFs!
+> * NEW `!song-search` command released fully functional!
+> -# - it will take upwards of 50 mins to register.
+> * Added new randomized `!green-day` images
+> * Modernized `google-search` and `roblox-search` commands
+> * Changed `caption` font to Compact font
+> * Major performance boost to `gif` command
+> * Fixed Syntax Styling issue in `afk`
+> * Corrected prefix issues in `time` command
+## **__Moderator & Manager Category__**:
+> * All Moderator and Manager commands now display "R13L is typing..." before execution
+> * Commands in these categories now provide informative messages when run without arguments
+## **__Other__**:
+> * Fixed a bug affecting category databases across servers that caused `"managment"` to appear incorrectly
+> * `restart` now **re-syncs cogs** instead of restarting all of R13L
+> * Introduced a new system for Admins of R13L
+> * Unsynced R13L's slash commands from `C00lkidd#6015`
+> * Updated all links in `info` and `help` commands
+---------------------------------------------------------------------------------------------------
+> -# - R13L is now officially under the ownership of `@rahh_uk` following `@carbonistical`'s unfourfunate departure.
+> -# - **R13L will soon feature its own custom hosting console app, written in a compiled language!**
+> -# - Official R13L Server: <https://discord.gg/GwGvbQGuzj>

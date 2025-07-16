@@ -1,0 +1,25 @@
+# \--- R13L v5.9 ---
+## __Economy category__
+> - New `!rob` command to rob people 
+> - Changed `!lb` to show 5 users only and is now paginated with buttons 
+> - Returned the old shop style from R13L-BOT 
+> - Changed `!beg` to show remaining in Unix timestamps 
+> - Changed `!bet`'s gambling limit formula 
+> - Fixed old items appearing in `!shop` and `!inventory` 
+> - Used modern R13L-ized embed styles for income commands 
+> - All economy commands will have R13L typing while executing 
+> - Fixed `!work` from showing "daily income" 
+> - Cooldown for `!fish` has changed 
+> - **FINALLY** changed the old code structure 
+## __Fun & Tools category__
+> - Fixed `!random-color` from crashing upon use 
+> - `!green-day` now sends more randomized images 
+> - `!color` and `!invert-color` are now usable without the need of "#" in the Hex Code parameter 
+> - Fun commands will now show R13L typing 
+## __Other__
+> - R13L now understands both the `!` prefix and mentions (therefore: `@R13L#3614 help` is the same as `!help`) 
+> - Fixed and styled the `setup` menu
+....................................................................
+-# - This update has been brought to you by @rahh_uk since @carbonistical has *allegedly* abandoned R13L.
+-# - R13L Official Server: <https://discord.gg/GwGvbQGuzj>
+@here @everyone

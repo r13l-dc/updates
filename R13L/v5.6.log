@@ -1,0 +1,15 @@
+# \-- R13L v5.6 *[BUG FIX UPDATE!]*
+## __Changes__
+> - Changed all of the ``Tools Category`` to be informative when loss of prompts
+## __Bug fixes__
+> - Fixed a naming error in `!afk`
+> - Fixed the `!help` menu from bugging out upon use
+> - Fixed various errors in economy which are related to the deletion of the CF support configuration files
+## __Other...__
+> - Removed support for Starboard System in the C~ Federation version of R13L
+> - Removed support for ||N-word leaderboard|| in the C~ Federation version of R13L
+> - Removed support for ||R-word|| command in the C~ Federation version of R13L
+....................................................................
+-# - **Support for C~ Federation has officially entirely stopped and been deleted.** R13L no longer gives special privileges to any server, all servers are now equal to compensate with R13L's [Terms of Service](https://r13l-dc.github.io/r13l-docs/terms.html) and [Privacy Policy](https://r13l-dc.github.io/r13l-docs/privacy.html).
+-# - R13L Official Server: <https://discord.gg/ePfTy2kKWb>
+@here @everyone <@&1367626260020465674>

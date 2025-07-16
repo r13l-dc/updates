@@ -1,0 +1,20 @@
+# ------ R13L v5.5.5 ------
+## __Tools Category__
+> - New `!weather [city]`: Shows the weather information for `city`
+> - `!time [timezone]`: Shows the current time in `timezone`
+> - `!screenshot [url]`: Sends a screenshot of a website from the provided `url`
+> - `!define [word]`: Returns the definition from a dictionary of `word`
+> - **NSFW!** ||`!urban [word]`: Returns the urban definition of `word` ||
+> - `!download [url]`: Returns a video of `url` (ex. from tiktok or youtube)
+## __Bug Fixes & Changes__
+> - Fixed `!unmute` error checking and made it similar to `!mute`
+> - `!afk` can now only be used if Tools Category is enabled
+> - Removed support for member verification in the C~ Federation's version of R13L
+> - Renamed `!song` to `!yt-search`
+> - Changed the `!help` menu style **drastically** and prettified it
+> - Moved `!randomcolor` to the Fun Category
+> - Added usage information in the Tools Category instead of displaying error messages
+...................................................................
+-# - I was too tired for a new category and slash commands. sorry :(
+-# - R13L Official Server: <https://discord.gg/ePfTy2kKWb>
+@here @everyone

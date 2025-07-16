@@ -1,0 +1,16 @@
+# ======= R13L 5.4.0-54 =======
+## ===== Commands =====
+> - [✏️] New `!caption` command to add captions to images!
+> - [💭] New `!song` command to send a link to a songs musicxmatch!
+> - [👥] New `!member-count` command to get the total number of members in a server
+> - [😀] New `!emojis` command to get all emojis in a guild into a single embed
+> - [🔖] New `!roles` command to view all roles
+> - [ℹ️] New `!role-info` command to view a roles information
+## ===== Changes =====
+> - [🏷️] Renamed the Management Category to **Manager Category** and Moderation Category to **Moderator Category**
+> - [👋] Fixed the slash commands not appearing in the Welcome Category
+> - [😴] Fixed a bug in `!afk` to prevent it from crashing upon use
+> - [ℹ️] Changed the `!help` menu more and improved style
+# ========================= 
+-# - R13L Official Server: <https://discord.gg/7UNV6U3f72>
+@here @everyone <@&1367626260020465674>
