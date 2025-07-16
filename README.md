@@ -19,4 +19,4 @@ The current version of R13L (same account as R13L.py), being the re-branded vers
 
 ## Info
 
-There is a `INFO.md` file inside each directory explaining in more detail about them and their history
+There is a `INFO.md` file inside each directory.

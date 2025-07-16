@@ -7,7 +7,3 @@ Information about R13L
 ## Info
 
 These are the archives for R13L updates.
-
-## Dates
-
-Not yet! *(im lazy)*
