@@ -1,0 +1,12 @@
+@everyone @here
+# ==== RELEASE 1.5 ====
+- R13L.py 1.5 is out now! Here is the new additions:
+> 1. [⛓️‍💥] **NEW MODERATION CATEGORY!!** You could do !help and get all information about it!
+> 2. [🦵] Kick people using the new `!kick` command!
+> 3. [⚠️] Unlike R13L-BOT, R13L.py has an entire warning system! Much better!
+> 4. [📝] Every warning comes with a special ID which is different per-server! There are **2.1 billion** possible IDs!
+> 5. [🔨] New `!purge` command to purge messages!
+> 6. [ℹ️] Improved some of the visual issues in embeds.
+> 7. [⁉️] Added way more updates to the CF version of R13L.py! Including logs for moderation actions!
+-# - Thanks for your patience!
+-# - Join the community at The official R13L.py Arena: <https://discord.gg/7UNV6U3f72>

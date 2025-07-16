@@ -1,0 +1,14 @@
+@everyone @here
+# ===== release 2.21 =====
+- R13L.py has been updated vastly again. Logs:
+## ==================
+> - [ℹ️] New `!user-info` and `!server-info` commands in Tools Category
+> - [🔨] New `!ban` and `!unban` commands finished in Moderation Category
+> - [🐟] Fixed errors in Economy Category related to `!fish` and `!buy` commands
+> - [🥺] Fixed the `!beg` command syntax in terms of random messages
+> - [🏓] Fixed `!ping` being in Tools Category error
+> - [⚙️] An insane amount of improving to the C~ Federation's version of R13L.py with Security updates related to the recent incident **(this has taken up half of my time to take care of. im sorry for the wait.)**
+## ==================
+-# - Remember to support us by joining the official R13L.py arena. Invite Link: <https://discord.gg/7UNV6U3f72>
+-# - Invite R13L.py to more of your servers to help spread the bot. Invite Link: <https://discord.com/oauth2/authorize?client_id=1366984096139444348>
+-# - Faster than Robotop... Phew...

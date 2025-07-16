@@ -1,0 +1,13 @@
+@here
+==== PATCH RELEASE 1.62 ====
+> - R13L.py has had some major bug fixes in the new moderation category.
+> 1. [🧠] Fixed inconsistent code in `!warn` and `!unwarn`.
+> 2. [📝] `!warns` only shows warnings in your current server.
+> 3. [🙁] Fixed a major bug in `!unwarn` which allowed users to unwarn themself with the warn ID.
+> 4. [ℹ️] Changed the warn ID format to be much more simpler.
+> 5. [SPOILER 😳] ||Looking forward to `!ban`, `!unban`, `!mute`, `!unmute` and other commands in the near future!||
+> 6. [⛓️‍💥] As always, much more CF feature have been implemented.
+-# - I apologise for the errors! :( I have been facing alot of trouble in real life and haven't been able to focus on R13L.py properly. Thankfully, I got time to fix these errors which I *unfortunately* neglected.
+-# - **NO HARM WAS DONE!!**
+-# - Remember to support me by joining the official R13L.pt arena! 🩷🩷: <https://discord.gg/7UNV6U3f72>
+-# - Invite R13L.py to more of your servers to help spread the bot! Invite Link: <https://discord.com/oauth2/authorize?client_id=1366984096139444348>

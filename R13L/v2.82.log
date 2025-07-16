@@ -1,0 +1,8 @@
+# R13L: Release 2.82 (6/6)
+- Fixed a bug when using `!avatar` which refuses to show users avatars.
+- Changed a field in `!ping` to be more accurate and understandable.
+- Added a **Database Latency** field into `!ping` alongside the newly named WebSocket Host.
+### TEASERS...
+- I've began experimenting with slash commands...
+- All suggestion will be welcome for next updates!
+@here

@@ -1,0 +1,17 @@
+@everyone @here
+# ====== RELEASE 2.53 ======
+## ==== ADDITIONS ====
+> - [🎁] New `!gif` command to turn any image format into a GIF! 
+-# > - [😞] **Please** report any errors related to this commands to me. 
+> - [🖼️] New `!avatar` command for checking users profile pictures!
+> - [🏳️‍] New `!banner` command for checking users banners or color accents!
+> - [🧮] New `!calc` command to calculate any math expression!
+> - [⏰] New `!uptime` command to check how long has the bot been up for!
+> - [✨] New features implemented into the** C~ Federation's version** of R13L.py!
+## ==== CHANGES ====
+> - [⚠️] Fixed a bug in **!give-coins** which crashed the bot.
+> - [⏳] Got rid of all **!setup** bugs which crashed new servers when using any command.
+> - [👨‍🔧] Fixed a bug in the `!ban` and `!unban` commands which stopped admins from everything.
+> - [🇸🇯] Other bug fixes...
+-# - Remember to support me by joining the official R13L.py arena! Invite Link: <https://discord.gg/7UNV6U3f72>
+-# - Invite R13L.py to more of your servers to help spread it! Invite Link: <https://discord.com/oauth2/authorize?client_id=1366984096139444348>

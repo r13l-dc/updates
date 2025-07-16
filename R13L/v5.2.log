@@ -1,0 +1,19 @@
+# ======= R13L 5.2.461-6 =======
+## ===== Commands =====
+> - [😻] New `!cat` command to get a random picture of a cat
+> - [🐶] New `!dog` command to get a random picture of a dog
+> - [⚠️] Added `!warn-info` command to view a warnings information
+> - [🕠] Added a new `!slowmode` command to change the current channels slowmode
+## ===== Changes =====
+> - [🦾] Migrated to a newer system of file organization to ease new command production in **future updates**
+> - [🥹] Changed compliment to motivation
+> - [❤️] Added **+50** new motivation quotes
+> - [⏳] Added a short cooldown for every command
+> - [🗂️] Added database latency to `!ping`
+> - [ℹ️] Added better command information
+## ===== Removals =====
+> - [♠️] Deleted the `!bj` command.
+# ========================= 
+-# - R13L Official Server: <https://discord.gg/7UNV6U3f72>
+-# - Thank you for supporting R13L. I have recently been struggling to keep up however I think I will soon release more helpful moderation-related updates.
+@here @everyone <@&1367626260020465674>

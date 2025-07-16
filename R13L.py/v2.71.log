@@ -1,0 +1,13 @@
+@everyone @here
+# ======= RELEASE 2.71 =======
+## ==== ADDITIONS ====
+> - [🎒] New `!inventory` command to show your full economy profile!
+> - [👨‍💻] New `!qr` command to show QR codes for links!
+> - [📘] New `!translate` command to translate any message into English!
+> - [🔗] New `!shortern-link` command to shortern links to be smaller!
+## ==== CHANGES ====
+> - [⚠️] Fixed a bug in **!work** which made your job as "Null".
+> - [⏳] Fixed permission errors in `!mute` and `!unmute`.
+-# - Remember to support me by joining the official R13L.py arena! Invite Link: <https://discord.gg/7UNV6U3f72>
+-# - Invite R13L.py to more of your servers to help spread it! Invite Link: <https://discord.com/oauth2/authorize?client_id=1366984096139444348>
+-# - When 60.0?

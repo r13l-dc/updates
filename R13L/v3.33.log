@@ -1,0 +1,18 @@
+@here @everyone
+# ======= R13L v3.33 =======
+## ==== +Additions ====
+> - [👋] NEW WELCOME CATEGORY! **[GLOBAL SLASH COMMANDS]**
+> - [😁] __**Joins:**__ `/toggle-join-message`, `/set-join-message`
+> - [😞] __**Leaves:**__ `/toggle-leave-message`, `/set-leave-message`
+> - [🔖] __**Roles:**__  `/toggle-join-role`, `/add-join-role`, `/list-join-roles`, `/remove-join-role`
+> - [ℹ️] New `!info` command to show R13L information!
+> - [♠️] New `!blackjack` command to play with a bot!
+## ==== -Changes ====
+> - [🌐] Changed the layout of the R13L Legal Documents website.
+> - [🔨] Fixed a bug in `!purge` which took a while just doing nothing.
+> - [🖼️] Added more support for `!gif` and improved command speed **by a bit**. (great start however)
+> - [✨] Added more R13L features to the CF version of R13L! 
+# =========================
+-# - Remember to support by joining the official R13L arena! Server Link: <https://discord.gg/7UNV6U3f72>
+-# - Invite R13L to more of your servers to help spread it! Bot Invite Link: <https://discord.com/oauth2/authorize?client_id=1366984096139444348>
+-# - The update was quicker than intended!! **It only took 2 days** :D

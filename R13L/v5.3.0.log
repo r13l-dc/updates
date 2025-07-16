@@ -1,0 +1,14 @@
+@here
+# ======= R13L 5.3.0-63 =======
+## ===== Commands =====
+> - [😴] New `!afk` command to set your status as AFK until you chat later.
+> - [🌈] New `!random-color` command to display a random color.
+> - [👋] Welcome slash commands are now just two: `/leave-setup`, `/join-setup` **[WILL TAKE UP TO AN HOUR TO REGISTER GLOBALLY ACROSS ALL SERVERS]**
+> - [🔞] New `!set-nsfw` command to toggle  the current channels age-restriction.
+> - [📊] New `!stats` command to display the current R13L status.
+> - [📃] Two new `!privacy` and `!terms` to display R13L's legal documents
+## ===== Changes =====
+> - [ℹ️] Changed the `!help` menu to display more clear information with togglable pages.
+> - [ℹ️] Added cleaner information on moderation commands with usage explained.
+# ========================= 
+-# - R13L Official Server: <https://discord.gg/7UNV6U3f72>

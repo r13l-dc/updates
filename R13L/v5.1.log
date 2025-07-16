@@ -1,0 +1,14 @@
+@here @everyone
+# ====== R13L 5.1.13-6 ======
+## ==== Commands ====
+> - [💭] Added customized Welcome and Leave messages with `/change-join-msg` and `/change-leave-msg`
+## ==== Changes ====
+> - [🔇] Fixed a error in `!unto` which caused crashes.
+> - [👋] Changed `!slap` gif to something that would load.
+> - [🖼️] `!gif` now accepts videos into GIFs! And aswell as many other file formats.
+# ======================= 
+-# - R13L now uses Sementic Versioning! Got to 5 by counting all updates released on R13L added to the previous 4.0 of R13L-BOT.
+-# - R13L Official Server: <https://discord.gg/7UNV6U3f72>
+-# - Invite R13L to your servers to help support me! Bot Invite Link: <https://discord.com/oauth2/authorize?client_id=1366984096139444348>
+-# - Next update will be dedicated towards the utilities/tools!
+-# - Slash commands could take **up to an hour** to register across all servers.

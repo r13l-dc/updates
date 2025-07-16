@@ -1,0 +1,14 @@
+@everyone @here
+# ===== RELEASE 1.91 =====
+- R13L.py has been blazingly updated with many, MANY new features!
+## ==================
+> - [🧰] Added a new category: Tools Category!
+> - [🎨] Introduced two new Tool commands: `!color` & !`invert-color`
+> - [🎣] Released the new `!fish` income command, get a fishing rod in the `!shop` and start fishing!
+> - [💰] Buffed the economy system to increase income earnings by alot!
+> - [🏁] Resolved a bug in the `!kyle-busch` command.
+> - [🛠️] Patched some bugs affecting the Moderation Category in `!warn` and `!unwarn`
+> - [⚙️] Enhanced the C~ Federation version of R13L.py with many new personalized commands
+## ==================
+-# - Remember to support us by joining the official R13L.pt arena! Invite Link: <https://discord.gg/7UNV6U3f72>
+-# - Invite R13L.py to more of your servers to help spread the bot! Invite Link: <https://discord.com/oauth2/authorize?client_id=1366984096139444348>
