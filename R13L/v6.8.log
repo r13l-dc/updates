@@ -1,0 +1,17 @@
+# ==== R13L v6.8 Update ====
+## **What's New?**
+* __❗ Randomized Work Messages__: The `work` command now has randomized messages instead of predefined job ones.
+* __✅ New Emojis__: The old emojis for success and failure have been replaced. Alongside new emojis for already existing ones.
+---
+## **Changes**
+* __🌈 Color Changes__: Modified most of embed colors to match Discords official color scheme.
+* __⬆️ Fixed Arrows__: Changed all arrows in paginated embeds to use arrow emojis instead of unicode arrows. 
+## **Bug Fixes**
+* __🤚 Character Limits__: Limited maximum characters in warning reasons, kick reasons and other moderator features to prevent misuse.
+* __🐟 Fishing bugs__: Fixed fishing not loading or working properly after buying a new fishing rod.
+* __🛠️ File System__: Fixed some bugs related with file system issues.
+------------------------------------------------------------------------------------------------------------------
+-# - 🔗 **__R13L Official Server__:** <https://discord.gg/GwGvbQGuzj>
+-# - 🟢 **__R13L's Current Status__:** Online (running), Active
+-# - 🎨 Report any bugs or issues to the official server.
+-# - ||@everyone @here||
