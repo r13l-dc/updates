@@ -1,7 +1,7 @@
 # ==== R13L v6.8 Update ====
 ## **What's New?**
 * __❗ Randomized Work Messages__: The `work` command now has randomized messages instead of predefined job ones.
-* __✅ New Emojis__: The old emojis for success and failure have been replaced. Alongside new emojis for already existing ones.
+* __✅ New Emojis__: New emojis are now in-use instead the old ones!
 ---
 ## **Changes**
 * __🌈 Color Changes__: Modified most of embed colors to match Discords official color scheme.
