@@ -1,0 +1,26 @@
+-# ||@everyone @here||
+# ==== R13L v6.9 ====
+## **What's New?**
+- 😁 __New Emojis__: R13L has changed alot of custom emojis and also used newer emojis!
+- 🪙 __Currency Emoji__: The economy system now has its own custom coin emoji!
+- ⚒️ __Permission Safety__: R13L can now analyze the permissions it can do and will not run commands if it does not have the required permissions while giving an appropriate error message.
+-# - This might take up to ~12 hours to be in sync!!
+- 🖼️ __New Profile__: R13L uses a new golden-like Profile Picture and banner! The R13L Official Server has also changed its profile picture.
+---
+## **Changes**
+- 📄 __Type Errors__: Changed types from strings of 'off' and 'on' to 'True' and 'False' to integrate better.
+- 🗑️ __Slight Deletions__: Some useless/unused commands have been removed from R13L: `motivation`, `dowload` ||(no, not download, dont worry guys)|| and `match`
+- ♻️ __Certain Archives__: Unused commands have been archived: `green-day`, `kyle-busch` and `kanye`. **This means that they can only be used in the R13L Official Server!**
+- 🔄 __Command Updates__: The `help` command has been updated to acompany the new changes.
+- 👯‍♂️ __Better Grammar__: Fixed `gay-check`'s incorrect usage of first-person pronouns in the footer of the embed. 
+## **Bug Fixes**
+- 🪲 __Help Setup__: Fixed the bug where the Starboard and Welcoming would show up as off no matter what.
+- 🔧 __Features Bug__: Removed an old feature known as "Actions" from the `setup` command.
+- 🪟 __Translation Bug__: Fixed the name of the translator used when using the `translate` command. (tysm deep_translator <3)
+- 🎡 __Icon Size__: Fixed the size of the R13L icon to the most high quality graphics.
+- 📂 __File System__: Debloated and organized the structure of the R13L file system much more than the previous update.
+- 🔰 __Mentioning Reply__: R13L can now mention you when you reply to it once again! ||(it was a .venv issue...)||
+# ===================
+-# - 🔗 **R13L Official Server:** <https://discord.gg/GwGvbQGuzj>
+-# - 🟢 **R13L's Current Status:** Online
+-# - ‼️ Report any bugs or issues to the R13L Official Server.
